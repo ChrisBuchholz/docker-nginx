@@ -14,4 +14,6 @@ Use it in a Dockerfile:
     COPY src/ /var/www
     CMD 'nginx'
 
+*nginx config modified from that found in [kyma/docker-nginx].*
 
+[kyma/docker-nginx]: https://github.com/KyleAMathews/docker-nginx
